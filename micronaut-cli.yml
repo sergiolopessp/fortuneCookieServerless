@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.deviniciative
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, gradle, junit, kotlin, logback, readme, shade, yaml]
